@@ -107,9 +107,6 @@ public class TestLogin {
 
     @After
     public void tearDown() throws Exception {
-        //Tap on burger menu
-//        Espresso.onView(ViewMatchers.withContentDescription("Open navigation drawer")).perform(click());
-        //Tap on logout
-//        Espresso.onView(ViewMatchers.withId(R.id.design_menu_item_text)).perform(click());
+        //To do logout
     }
 }
